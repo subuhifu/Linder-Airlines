@@ -5,13 +5,13 @@ Design Document
 
 Subuhi
 
-Chandra Sekhar
+Chandra Sekhar Cherukuri
 
-Nikhil
+Nikhil Sai Kumar Runku
 
-Veda
+Veda Supraja Adapa
 
-Sreepathi
+Bhargav Sreepathi
 
 ## Introduction
 
