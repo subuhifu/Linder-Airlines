@@ -35,154 +35,158 @@ Team Members : Subuhi,Chandra Sekhar Cherukuri,Nikhil Sai Kumar Runku,Veda Supra
 ## Functional Requirement
 
 ### Requirement 1.0: User Registration and Login
-Scenario
+
+#### Scenario
+
 As a user, I want to register an account and be able to log in so that I can access the airline's booking system.
 
-Dependencies
+#### Dependencies
 The application provides registration and login functionality.
 
-Assumptions
+#### Assumptions
 Users will provide valid registration information.
 
-Examples
+#### Examples
 ### 1.1
-Given: I am a new user.
 
-When: I navigate to the registration page and provide valid registration details.
+**Given**: I am a new user.
 
-Then: I should receive a confirmation message and be able to log in with my new account.
+**When**: I navigate to the registration page and provide valid registration details.
+
+**Then**: I should receive a confirmation message and be able to log in with my new account.
 
 ### 1.2
-Given: I am a registered user.
+**Given**: I am a registered user.
 
-When: I navigate to the login page and provide my valid credentials.
+**When**: I navigate to the login page and provide my valid credentials.
 
-Then: I should be logged in and have access to the airline's booking system.
+**Then**: I should be logged in and have access to the airline's booking system.
 
 ### Requirement 2.0: Flight Search and Booking
-Scenario
+#### Scenario
 As a user, I want to search for available flights and make bookings to plan my travel.
 
-Dependencies
+#### Dependencies
 The system provides access to a flight database and booking functionality.
 
-Assumptions
+#### Assumptions
 Flights are available for booking.
 
-Examples
+### Examples
 ### 2.1
-Given: I want to book a flight.
+**Given**: I want to book a flight.
 
-When: I search for flights from "Cincinnati" to "Dallas" on a specific date.
+**When**: I search for flights from "Cincinnati" to "Dallas" on a specific date.
 
-Then: I should see a list of available flights and be able to select and book one.
+**Then**: I should see a list of available flights and be able to select and book one.
 
 ### 2.2
-Given: I am booking a flight.
+**Given**: I am booking a flight.
 
-When: I select a flight and provide passenger details.
+**When**: I select a flight and provide passenger details.
 
-Then: I should receive a booking confirmation with all the travel details.
+**Then**: I should receive a booking confirmation with all the travel details.
 
 ### Requirement 3.0: User Profile Management
-Scenario
+#### Scenario
 As a user, I want to manage my profile information and preferences.
 
-Dependencies
+#### Dependencies
 The application allows users to create and update profiles.
 
-Assumptions
+#### Assumptions
 Users have profiles with editable information.
 
-Examples
+### Examples
 ### 3.1
-Given: I want to update my profile.
+**Given**: I want to update my profile.
 
-When: I navigate to my profile and change my contact information.
+**When**: I navigate to my profile and change my contact information.
 
-Then: My profile is updated, and the changes are saved.
+**Then**: My profile is updated, and the changes are saved.
 
 ### 3.2
-Given: I want to update my demographic information.
+**Given**: I want to update my demographic information.
 
-When: I access the demographic information update feature and provide new details, such as my address, phone number, or date of birth.
+**When**: I access the demographic information update feature and provide new details, such as my address, phone number, or date of birth.
 
-Then: My demographic information is updated, and the changes are saved securely.
+**Then**: My demographic information is updated, and the changes are saved securely.
 
 ### Requirement 4.0: Flight Management
-Scenario
+#### Scenario
 As an airline administrator, I want to manage flight details and availability.
 
-Dependencies
+#### Dependencies
 The system allows administrators to add, update, or remove flight information.
 
-Assumptions
+#### Assumptions
 Administrators have the necessary permissions.
 
-Examples
+#### Examples
 ### 4.1
-Given: I need to add a new flight.
+**Given**: I need to add a new flight.
 
-When: I access the flight management panel and provide flight details.
+**When**: I access the flight management panel and provide flight details.
 
-Then: A new flight is added to the system.
+**Then**: A new flight is added to the system.
 
 ### 4.2
-Given: A flight schedule needs to be updated.
+**Given**: A flight schedule needs to be updated.
 
-When: I select a flight and modify its departure time.
+***When***: I select a flight and modify its departure time.
 
-Then: The flight schedule is updated, and passengers are informed of the change.
+***Then***: The flight schedule is updated, and passengers are informed of the change.
 
 ### Requirement 5.0: Reporting and Statistics
-Scenario
+#### Scenario
 As an airline administrator, I want to access reports and statistics related to bookings and flight performance.
 
-Dependencies
+#### Dependencies
 The system provides access to booking and flight data.
 
-Assumptions
+#### Assumptions
 Data is available for analysis.
 
-Examples
+#### Examples
 ### 5.1
-Given: I want to view the total number of bookings this month.
+**Given**: I want to view the total number of bookings this month.
 
-When: I access the reporting dashboard.
+**When**: I access the reporting dashboard.
 
-Then: I see a summary of monthly bookings.
+**Then**: I see a summary of monthly bookings.
 
 ### 5.2
-Given: I want to analyze the most popular flight routes.
+**Given**: I want to analyze the most popular flight routes.
 
-When: I access the statistics section.
+**When**: I access the statistics section.
 
-Then: I receive data on the top routes based on bookings.
+**Then**: I receive data on the top routes based on bookings.
 
 ### Requirement 6.0: Assistance Requests
-Scenario
+
+#### Scenario
 As a user with special needs, I want to request assistance during my travel.
 
-Dependencies
+#### Dependencies
 The system allows users to request assistance and assign staff to assist them.
 
-Assumptions
+#### Assumptions
 Users can specify their assistance requirements.
 
-Examples
+#### Examples
 ### 6.1
-Given: I require wheelchair assistance.
+**Given**: I require wheelchair assistance.
 
-When: I make a booking and specify my assistance needs.
+**When**: I make a booking and specify my assistance needs.
 
-Then: Wheelchair assistance is arranged for my travel.
+**Then**: Wheelchair assistance is arranged for my travel.
 
 ### 6.2
-Given: I have a medical condition and need in-flight assistance.
+**Given**: I have a medical condition and need in-flight assistance.
 
-When: I request assistance during the booking process.
+**When**: I request assistance during the booking process.
 
-Then: Medical assistance was provided during my flight.
+**Then**: Medical assistance was provided during my flight.
 
 
 
