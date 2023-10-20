@@ -15,3 +15,32 @@ Bhargav Sreepathi
 
 ## Introduction
 
+
+
+
+
+
+##  Data Feeds
+
+
+
+
+
+## Functional Requirement
+
+
+
+
+
+
+## Scrum Roles
+
+
+
+
+
+## Weekly Meetings
+
+
+
+
