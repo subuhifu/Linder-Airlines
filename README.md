@@ -192,7 +192,7 @@ Then: Medical assistance was provided during my flight.
 
 ## Scrum Roles
 
-- Frontend Developer:
+- Frontend Developer: 
 - Integration Developer:
 - Scrum Master:
   
@@ -208,7 +208,7 @@ Team Members:
 2.Bhargav Sreepathi
 3.Veda Supraja Adapa
 4.Nikhil Sai Kumar Runku
-5.Subuhi  Fnu
+5.Subuhi  
 
 Sunday at 9 PM on Teams
 
