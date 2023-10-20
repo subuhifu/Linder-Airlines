@@ -3,11 +3,11 @@
 
 Design Document
 
-Subuhi
-Chandra Sekhar 
-Nikhil
-Veda
-Sreepathi
+Subuhi,
+Chandra Sekhar, 
+Nikhil,
+Veda,
+Sreepathi,
 
 ## Introduction
 
