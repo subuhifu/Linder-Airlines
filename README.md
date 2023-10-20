@@ -194,9 +194,11 @@ Then: Medical assistance was provided during my flight.
 
 ## Scrum Roles
 
-- Frontend Developer: 
-- Integration Developer:
-- Scrum Master:
+- Frontend Developer: Chandra Sekhar Cherukuri
+- Integration Developer: Veda Supraja Adapa
+- Scrum Master: Subuhi
+- DevOps: Bhargav Sreepathi
+- Product Developer: Nikhil Sai Kumar Runku
   
 
 
