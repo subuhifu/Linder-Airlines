@@ -4,7 +4,7 @@
 Design Document
 
 Subuhi
-Chandra Shekhur 
+Chandra Sekhar 
 Nikhil
 Veda
 Sreepathi
