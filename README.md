@@ -67,7 +67,7 @@ Examples
 ### 2.1
 Given: I want to book a flight.
 
-When: I search for flights from "New York" to "Los Angeles" on a specific date.
+When: I search for flights from "Cincinnati" to "Dallas" on a specific date.
 
 Then: I should see a list of available flights and be able to select and book one.
 
@@ -76,7 +76,7 @@ Given: I am booking a flight.
 
 When: I select a flight and provide passenger details.
 
-Then: I should receive a booking confirmation and be able to view it in my bookings.
+Then: I should receive a booking confirmation with all the travel details.
 
 ### Requirement 3.0: User Profile Management
 Scenario
@@ -97,11 +97,11 @@ When: I navigate to my profile and change my contact information.
 Then: My profile is updated, and the changes are saved.
 
 ### 3.2
-Given: I want to change my password.
+Given: I want to update my demographic information.
 
-When: I access the password change feature and provide a new password.
+When: I access the demographic information update feature and provide new details, such as my address, phone number, or date of birth.
 
-Then: My password is updated and saved securely.
+Then: My demographic information is updated, and the changes are saved securely.
 
 ### Requirement 4.0: Flight Management
 Scenario
@@ -128,32 +128,7 @@ When: I select a flight and modify its departure time.
 
 Then: The flight schedule is updated, and passengers are informed of the change.
 
-### Requirement 5.0: Booking Management
-Scenario
-As a user, I want to view and manage my flight bookings.
-
-Dependencies
-The application provides users with access to their booking information.
-
-Assumptions
-Users have made bookings.
-
-Examples
-### 5.1
-Given: I would like to check my upcoming bookings.
-
-When: I log in and access my bookings.
-
-Then: I see a list of my upcoming flights.
-
-### 5.2
-Given: I want to cancel a booking.
-
-When: I select a booking and request cancellation.
-
-Then: The booking is canceled, and I receive a confirmation.
-
-### Requirement 6.0: Reporting and Statistics
+### Requirement 5.0: Reporting and Statistics
 Scenario
 As an airline administrator, I want to access reports and statistics related to bookings and flight performance.
 
@@ -164,21 +139,21 @@ Assumptions
 Data is available for analysis.
 
 Examples
-### 6.1
+### 5.1
 Given: I want to view the total number of bookings this month.
 
 When: I access the reporting dashboard.
 
 Then: I see a summary of monthly bookings.
 
-### 6.2
+### 5.2
 Given: I want to analyze the most popular flight routes.
 
 When: I access the statistics section.
 
 Then: I receive data on the top routes based on bookings.
 
-### Requirement 7.0: Assistance Requests
+### Requirement 6.0: Assistance Requests
 Scenario
 As a user with special needs, I want to request assistance during my travel.
 
@@ -189,14 +164,14 @@ Assumptions
 Users can specify their assistance requirements.
 
 Examples
-### 7.1
+### 6.1
 Given: I require wheelchair assistance.
 
 When: I make a booking and specify my assistance needs.
 
 Then: Wheelchair assistance is arranged for my travel.
 
-### 7.2
+### 6.2
 Given: I have a medical condition and need in-flight assistance.
 
 When: I request assistance during the booking process.
