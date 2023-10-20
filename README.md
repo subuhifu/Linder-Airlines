@@ -1,4 +1,4 @@
-# Linder-Airlines
+# Lindner-Airlines
 ---
 
 Design Document
