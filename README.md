@@ -1,17 +1,6 @@
-# Lindner-Airlines
+# Lindner-Airlines: Design Document
 ---
-
-Design Document
-
-Subuhi
-
-Chandra Sekhar Cherukuri
-
-Nikhil Sai Kumar Runku
-
-Veda Supraja Adapa
-
-Bhargav Sreepathi
+Team Members : Subuhi,Chandra Sekhar Cherukuri,Nikhil Sai Kumar Runku,Veda Supraja Adapa,Bhargav Sreepathi
 
 ## Logo
 ![image](https://github.com/subuhifu/Lindner-Airlines/assets/143138483/ea7835c4-fe27-4752-aeb4-5ab94a879417)
