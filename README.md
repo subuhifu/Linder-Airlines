@@ -45,6 +45,6 @@ Bhargav Sreepathi
 
 ## Weekly Meetings
 
-
+Sunday at 9 PM on Teams
 
 
