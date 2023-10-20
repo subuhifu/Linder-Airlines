@@ -35,6 +35,10 @@ Bhargav Sreepathi
 
 ## Scrum Roles
 
+- Frontend Developer:
+- Integration Developer:
+- Scrum Master:
+  
 
 
 
