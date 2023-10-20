@@ -200,15 +200,8 @@ Then: Medical assistance was provided during my flight.
 
 
 
-## Team  Members| Weekly Meetings
+## Weekly Meetings
 
-Team Members:
-
-1.Chandra Sekhar Cherukuri
-2.Bhargav Sreepathi
-3.Veda Supraja Adapa
-4.Nikhil Sai Kumar Runku
-5.Subuhi  
 
 Sunday at 9 PM on Teams
 
