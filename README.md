@@ -178,8 +178,6 @@ When: I request assistance during the booking process.
 
 Then: Medical assistance was provided during my flight.
 
-These functional requirements cover the core features and capabilities of the airline management system.
-
 
 
 
