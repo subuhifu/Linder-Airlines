@@ -27,8 +27,9 @@ Team Members : Subuhi,Chandra Sekhar Cherukuri,Nikhil Sai Kumar Runku,Veda Supra
 
 ##  Data Feeds
 
+[U.S. International Air Traffic Data](https://www.kaggle.com/datasets/parulpandey/us-international-air-traffic-data/)
 
-
+[U.S. Historical Flight Delay and Weather Data](https://www.kaggle.com/datasets/ioanagheorghiu/historical-flight-and-weather-data)
 
 
 ## Functional Requirement
