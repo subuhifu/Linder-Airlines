@@ -8,7 +8,9 @@ Team Members : Subuhi,Chandra Sekhar Cherukuri,Nikhil Sai Kumar Runku,Veda Supra
 
 ## Introduction
 
-
+The agenda of Lindner Airlines is to provide you with the detailed services of various airline services that helps in choosing the best airline for your travel. 
+We have come to understanding of how opting an airline for travel with financial, safety, comfort constraints have become a pain during the busy schedules, Hence came up with
+our platform that offers a listing of various set of airlines that gives you information about, price, time, weather conditions, comfort levels, and few other features.
 
 ## Story Board
 ![image](https://github.com/subuhifu/Lindner-Airlines/assets/143138483/92c1d223-0ff3-454a-a9ed-12e17e26ba33)
