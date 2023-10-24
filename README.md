@@ -14,7 +14,7 @@ We have come to understanding of how opting an airline for travel with financial
 our platform that offers a listing of various set of airlines that gives you information about, price, time, weather conditions, comfort levels, and few other features.
 
 ## Story Board
-![image](https://github.com/subuhifu/Lindner-Airlines/assets/143138483/92c1d223-0ff3-454a-a9ed-12e17e26ba33)
+
 ![image](https://github.com/subuhifu/Lindner-Airlines/assets/143138483/9e52b6ad-e19a-4ca2-8452-f26b2f35b133)
 
 ![image](https://github.com/subuhifu/Lindner-Airlines/assets/143138483/2e542f5f-bf22-40c8-ab40-8854bc466526)
